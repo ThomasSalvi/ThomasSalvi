@@ -1,8 +1,10 @@
-### Hi there 👋
+## Thomas Salvi
+Développeur web front/back
 ![Cover](https://github.com/ThomasSalvi/ThomasSalvi/blob/main/cover.png)
+### Hi there 👋
 <!--
 **ThomasSalvi/ThomasSalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
