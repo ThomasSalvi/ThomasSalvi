@@ -16,6 +16,8 @@ Actuellement en recherche d'un premier emploi / stage, je peaufine mes compéten
 - React
 - Symfony (en cours)
 - TypeScript (en cours)
+- WordPress (en cours)
+- Node (en cours)
 
 ### Mes projets (hébergés sur mon serveur personnel)
 - **Pets in the hood:** en cours
