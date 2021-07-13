@@ -24,7 +24,7 @@ Actuellement en recherche d'un premier emploi / stage, je peaufine mes compéten
 - **GitHub Search:** https://github.com/ThomasSalvi/perso-Git-Search hébergé sur **http://thomasoclock.ddns.net/git-Search**
 - 
 ### Me contacter 
-Site perso: http://thomasoclock.ddns.net/
+Site perso: http://thomasoclock.ddns.net/portfolio/public/
 
 <!--
 **ThomasSalvi/ThomasSalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
