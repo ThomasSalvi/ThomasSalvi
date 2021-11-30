@@ -13,7 +13,8 @@ Actuellement en recherche d'un premier emploi / stage, je peaufine mes compéten
 - Css / Scss
 - Php
 - Javascript
-- React
+- React / React Redux
+- Vue / vueX
 - Symfony (en cours)
 - TypeScript (en cours)
 - WordPress (en cours)
