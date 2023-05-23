@@ -12,12 +12,9 @@ Actuellement en recherche d'un premier emploi / stage, je peaufine mes compéten
 - Html
 - Css / Scss
 - Php
-- Javascript
+- Javascript / typescript
 - React / React Redux
-- Vue / vueX
-- Symfony (en cours)
-- TypeScript (en cours)
-- WordPress (en cours)
+- Vue
 - Node (en cours)
 
 ### Mes projets (hébergés sur mon serveur personnel)
@@ -25,8 +22,6 @@ Actuellement en recherche d'un premier emploi / stage, je peaufine mes compéten
 - **GitHub Search:** https://github.com/ThomasSalvi/perso-Git-Search hébergé sur **http://thomasoclock.ddns.net/git-Search**
 - **Bakery** hébergé sur **http://thomasoclock.ddns.net/bakery**
 - **oCooking** hébergé sur **http://thomasoclock.ddns.net/oRecipes**
-### Me contacter 
-Site perso: http://thomasoclock.ddns.net
 
 <!--
 **ThomasSalvi/ThomasSalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
